@@ -1,0 +1,3 @@
+java -version == 11
+maven version apache-maven-3.8.1-bin.zip
+install dokcer and docker compose  
