@@ -9,5 +9,5 @@ maven version apache-maven-3.8.1-bin.zip
    13  export M2=$M2_HOME/bin
    14  export PATH=$M2:$PATH
 
-RUN This Command to generate build --> ./mvnw clean install
-install dokcer and docker compose  
+Instead of Installing Maven ... RUN This Command to generate build --> ./mvnw clean install
+Install Dokcer and Docker Compose  
